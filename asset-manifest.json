@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CodeJourneyTrainee/TasteTrail.com.git/static/css/main.56d9ea3e.css",
+    "main.js": "/CodeJourneyTrainee/TasteTrail.com.git/static/js/main.c3088227.js",
+    "static/js/787.1e48cc4a.chunk.js": "/CodeJourneyTrainee/TasteTrail.com.git/static/js/787.1e48cc4a.chunk.js",
+    "static/media/lunch.jpeg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/lunch.d725336d35930a2d6aa1.jpeg",
+    "static/media/Dosa.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/Dosa.352fbbf02f309633e710.jpg",
+    "static/media/food.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/food.0837e5b0177444d343f9.jpg",
+    "static/media/Curd.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/Curd.e851cf20438ce1f01c4b.jpg",
+    "static/media/Friedrice.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/Friedrice.30fa21debd2595af897a.jpg",
+    "static/media/Puri.jpeg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/Puri.309c574edc576a68d99a.jpeg",
+    "static/media/restaurant.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/restaurant.b08bf90f3563aa5effd3.jpg",
+    "static/media/kitchen2.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/kitchen2.c8ef69ef024524380065.jpg",
+    "static/media/logo1.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/logo1.330176fd13352bb6dd38.jpg",
+    "static/media/paddu.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/paddu.c07f1223648eb93aaa6c.jpg",
+    "static/media/Burrito.jpeg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/Burrito.e28fe76df9ea3a0c56d6.jpeg",
+    "static/media/Idli.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/Idli.420107414d00e34fa77c.jpg",
+    "static/media/kitchen3.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/kitchen3.b6cabeb9c9f78b6d15a9.jpg",
+    "static/media/kitchen1.jpg": "/CodeJourneyTrainee/TasteTrail.com.git/static/media/kitchen1.97b9536f96845876efe6.jpg",
+    "index.html": "/CodeJourneyTrainee/TasteTrail.com.git/index.html",
+    "main.56d9ea3e.css.map": "/CodeJourneyTrainee/TasteTrail.com.git/static/css/main.56d9ea3e.css.map",
+    "main.c3088227.js.map": "/CodeJourneyTrainee/TasteTrail.com.git/static/js/main.c3088227.js.map",
+    "787.1e48cc4a.chunk.js.map": "/CodeJourneyTrainee/TasteTrail.com.git/static/js/787.1e48cc4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d9ea3e.css",
+    "static/js/main.c3088227.js"
+  ]
+}
